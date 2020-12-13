@@ -1,3 +1,3 @@
 # flaskr
 
-<img src="flaskr-snip.png" alt="flaskr">
+<img src="flaskr-snip.PNG" alt="flaskr">
